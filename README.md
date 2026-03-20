@@ -1,2 +1,3 @@
-# next-e-learning-3xbt
-Automated issue comment bot repository
+# Next E Learning 3Xbt
+
+Automated issue comment bot repository.
